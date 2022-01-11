@@ -1,6 +1,6 @@
 # [Konstrukt](https://getkonstrukt.net)
 
-Konstrukt is the dynamic back office UI builder Umbraco v9+.
+Konstrukt is the back office UI builder Umbraco v9+.
 
 ## About This Repository
 
