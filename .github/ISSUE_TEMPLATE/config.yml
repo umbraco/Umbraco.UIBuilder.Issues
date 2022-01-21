@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
     - name: 💡 Features and Ideas
-      url: https://github.com/umbraco/Umbraco-CMS/discussions/new?category=features-and-ideas
-      about: Start a new discussion when you have ideas or feature requests, eventually discussions can turn into plans
+      url: https://github.com/outfielddigital/konstrukt/discussions
+      about: Start a new discussion when you have ideas or feature requests
     - name: ⁉️ Support Question
       url: https://our.umbraco.com/packages/backoffice-extensions/konstrukt/konstrukt-support/
       about: This issue tracker is NOT meant for support questions. If you have a question, please join us on the forum.
