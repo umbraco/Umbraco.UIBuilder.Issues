@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41B Bug report"
-about: File a bug report, if you've discovered a problem in
+about: File a bug report, if you've discovered a problem in Konstrukt
 title: ''
 labels: bug
 assignees: ''
