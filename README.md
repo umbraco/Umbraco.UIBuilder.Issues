@@ -9,7 +9,7 @@ The purpose of this repository is to act as a central hub for reporting issues w
 ## Useful Links
 
 * [Documentation](https://docs.getkonstrukt.net/)
-* [Our Umbraco Page](https://our.umbraco.com/packages/website-utilities/konstrukt/)
+* [Our Umbraco Page](https://our.umbraco.com/packages/backoffice-extensions/konstrukt/)
 * [Support Forum](https://our.umbraco.com/packages/backoffice-extensions/konstrukt/konstrukt-support/)
 * [Twitter](https://twitter.com/outfielddigital)
 
