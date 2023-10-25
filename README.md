@@ -9,7 +9,7 @@ The purpose of this repository is to act as a central hub for reporting issues w
 ## Useful Links
 
 * [Product Page](https://umbraco.com/products/umbraco-ui-builder)
-* [Documentation](https://docs.umbraco.net/umbraco-ui-builder)
+* [Documentation](https://docs.umbraco.com/umbraco-ui-builder)
 * [Support](mailto:support@umbraco.com)
 * [Discord](https://discord.gg/PSFDAmsG)
 
