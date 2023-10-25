@@ -1,18 +1,18 @@
-# [Konstrukt](https://getkonstrukt.net)
+# [Umbraco UI Builder](https://umbraco.com/products/umbraco-ui-builder) &middot; [![NuGet](https://img.shields.io/nuget/v/Umbraco.UIBuilder.svg?style=modern&label=nuget)](https://www.nuget.org/packages/Umbraco.UIBuilder/) 
 
-Konstrukt is the back office UI builder Umbraco v9+.
+Umbraco UI Builder is the rapid admin interface builder for Umbraco brought to you by  [Umbraco HQ](https://umbraco.com/products/umbraco-ui-builder)
 
 ## About This Repository
 
-The purpose of this repository is to act as a central hub for reporting issues with the core Konstrukt product. This repo will **NOT** contain the Konstrukt source code which is closed source.
+The purpose of this repository is to act as a central hub for reporting issues with the core Umbraco UI Builder product. This repo will **NOT** contain the Umbraco UI Builder source code which is closed source.
 
 ## Useful Links
 
-* [Documentation](https://docs.getkonstrukt.net/)
-* [Our Umbraco Page](https://our.umbraco.com/packages/backoffice-extensions/konstrukt/)
-* [Support Forum](https://our.umbraco.com/packages/backoffice-extensions/konstrukt/konstrukt-support/)
-* [Twitter](https://twitter.com/outfielddigital)
+* [Product Page](https://umbraco.com/products/umbraco-ui-builder)
+* [Documentation](https://docs.umbraco.net/umbraco-ui-builder)
+* [Support](mailto:support@umbraco.com)
+* [Discord](https://discord.gg/PSFDAmsG)
 
 ## Copyright
 
-Copyright © 2022 Outfield Digital Ltd. All rights reserved.
+Copyright © 2023 Umbraco HQ. All rights reserved.

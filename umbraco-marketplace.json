@@ -1,0 +1,49 @@
+{
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+  "AuthorDetails": {
+    "Name": "Umbraco HQ",
+    "Description": "Umbraco HQ",
+    "Url": "https://umbraco.com",
+    "ImageUrl": "https://avatars.githubusercontent.com/u/1419552?s=200&v=4"
+  },
+  "Description": "The backoffice UI Builder that lets you manage all your custom data, built and supported by Umbraco HQ",
+  "Category": "Developer Tools",
+  "LicenseTypes": [
+    "Subscription"
+  ],
+  "DocumentationUrl": "https://docs.umbraco.com/umbraco-uibuilder/",
+  "IssueTrackerUrl": "https://github.com/umbraco/Umbraco.UIBuilder.Issues/issues",
+  "PackageType": "Package",
+  "PackagesByAuthor": [
+    "Umbraco.Forms",
+    "Umbraco.Workflow",
+    "Umbraco.Deploy.OnPrem",
+    "Umbraco.Commerce"
+  ],
+  "Screenshots": [
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.UIBuilder.Issues/main/assets/listview.png",
+      "Caption": "Umbraco UI Builder list view"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.UIBuilder.Issues/main/assets/edit.png",
+      "Caption": "Umbraco UI Builder editor view"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.UIBuilder.Issues/main/assets/dashboard.png",
+      "Caption": "Umbraco UI Builder dashboard"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.UIBuilder.Issues/main/assets/contextapp.png",
+      "Caption": "Umbraco UI Builder context app"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/umbraco/Umbraco.UIBuilder.Issues/main/assets/code.png",
+      "Caption": "Umbraco UI Builder fluent API"
+    }
+  ],
+  "Tags": [
+    "umbraco",
+    "uibuilder"
+  ]
+}
