@@ -11,7 +11,7 @@
   "LicenseTypes": [
     "Subscription"
   ],
-  "DocumentationUrl": "https://docs.umbraco.com/umbraco-uibuilder/",
+  "DocumentationUrl": "https://docs.umbraco.com/umbraco-ui-builder/",
   "IssueTrackerUrl": "https://github.com/umbraco/Umbraco.UIBuilder.Issues/issues",
   "PackageType": "Package",
   "PackagesByAuthor": [
