@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
     - name: 💡 Features and Ideas
-      url: https://github.com/outfielddigital/konstrukt/discussions
+      url: https://github.com/umbraco/Umbraco.UIBuilder.Issues/discussions
       about: Start a new discussion when you have ideas or feature requests
     - name: ⁉️ Support Question
-      url: https://our.umbraco.com/packages/backoffice-extensions/konstrukt/konstrukt-support/
-      about: If you have a question, please join us on the forum.
+      url: mailto:support@umbraco.com
+      about: If you have a question, please email Umbraco support.
     - name: 📖 Documentation Issue
-      url: https://github.com/outfielddigital/konstrukt-documentation/issues
+      url: https://github.com/umbraco/UmbracoDocs/issues
       about: Documentation issues should be reported on the Konstrukt documentation repository.
